@@ -1,0 +1,15 @@
+﻿  cs2_hack.cpp
+C:\work\programming\cheats\cs2\cs2_hack\cs2_hack\ProcessManager.hpp(8,1): warning C4005: '_is_invalid': macro redefinition
+C:\work\programming\cheats\cs2\cs2_hack\cs2_hack\ProcessManager.hpp(7,1): message : see previous definition of '_is_invalid'
+C:\work\programming\cheats\cs2\cs2_hack\cs2_hack\cs2_hack.cpp(128,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\programming\cheats\cs2\cs2_hack\cs2_hack\cs2_hack.cpp(140,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\programming\cheats\cs2\cs2_hack\cs2_hack\cs2_hack.cpp(176,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\programming\cheats\cs2\cs2_hack\cs2_hack\cs2_hack.cpp(180,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\programming\cheats\cs2\cs2_hack\cs2_hack\cs2_hack.cpp(200,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\work\programming\cheats\cs2\cs2_hack\cs2_hack\cs2_hack.cpp(250,137): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\work\programming\cheats\cs2\cs2_hack\cs2_hack\cs2_hack.cpp(257,15): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\work\programming\cheats\cs2\cs2_hack\cs2_hack\cs2_hack.cpp(322,87): warning C4244: 'argument': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\work\programming\cheats\cs2\cs2_hack\cs2_hack\cs2_hack.cpp(324,32): warning C4244: '=': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\work\programming\cheats\cs2\cs2_hack\cs2_hack\cs2_hack.cpp(326,93): warning C4244: 'argument': conversion from 'DWORD64' to 'DWORD', possible loss of data
+C:\work\programming\cheats\cs2\cs2_hack\cs2_hack\cs2_hack.cpp(392,33): warning C4101: 'flD': unreferenced local variable
+  cs2_hack.vcxproj -> C:\work\programming\cheats\cs2\cs2_hack\x64\Debug\cs2_hack.exe
